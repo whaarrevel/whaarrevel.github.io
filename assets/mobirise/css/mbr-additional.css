@@ -1092,10 +1092,26 @@ a {
 .cid-sxF802C56d .mbr-section-title {
   color: #232323;
 }
+.cid-sxFhzuuwPt {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #bbbbbb;
+}
+@media (max-width: 991px) {
+  .cid-sxFhzuuwPt .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sxFhzuuwPt .row {
+  flex-direction: row-reverse;
+}
+.cid-sxFhzuuwPt img {
+  width: 100%;
+}
 .cid-sxFbl2EbHP {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #bbbbbb;
+  background-color: #7e8c9a;
 }
 .cid-sxFbl2EbHP .bg-twitter {
   background: #1da1f2;
